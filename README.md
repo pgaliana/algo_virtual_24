@@ -3,7 +3,7 @@
 
 **Negrita**
 
-*Cursiva*
+*Itálicas*
 
 - 1
 - 2
